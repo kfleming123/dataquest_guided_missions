@@ -8,4 +8,5 @@
 **Project 6:** Cleaning and analysis of jobs survey data.<br>
 **Project 7:** Cleaning analysis of SAT data from New York high schools.<br>
 **Project 8:** Cleaning analysis of Star Wars survey data.
+**Project 9:** Exploring SQL Database of country data using Python.
 
